@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "60605966506",
+    "project_id": "foodapp-de995",
+    "storage_bucket": "foodapp-de995.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60605966506:android:1b7581d6f605a9f27b08d3",
+        "android_client_info": {
+          "package_name": "com.tfp.PenyuRider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60605966506-93r05q4njp4c65jo50ei3g634esfdkuv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tfp.PenyuRider",
+            "certificate_hash": "d3522db06ee537ddff8b7d522d934c5782a2f74d"
+          }
+        },
+        {
+          "client_id": "60605966506-5ogg4i6d9bcvnnio5f4cn9kv1jassicr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-mQugb3Jhi4oMSoI3FEDuXMuBWF9yDu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60605966506-5ogg4i6d9bcvnnio5f4cn9kv1jassicr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
